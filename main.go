@@ -23,5 +23,4 @@ func main() {
 	fmt.Println(sitemap)
 	fmt.Println(string(sitemap))
 	fmt.Println(strings.Contains(string(sitemap), "新冠肺炎"))
-
 }
